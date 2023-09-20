@@ -2,8 +2,8 @@
 
 Memory Fitness is a simple JS Web Application, users have 30 seconds to match blocks after 30 seconds the game will end.
 
-![Model](snippet)
-![Model](snippet2)
+![Model](snippet.png)
+![Model](snippet2.png)
 
 ### How to Play
 * select whether you would like to play
