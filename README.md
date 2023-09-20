@@ -1,6 +1,6 @@
 # memory_fitness
 
-Memory Fitness is a simple JS Web Application to save Your daily tasks in order not to miss anything.
+Memory Fitness is a simple JS Web Application, users have 30 seconds to match blocks after 30 seconds the game will end.
 
 ![Model]()
 
