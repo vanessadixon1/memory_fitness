@@ -1,8 +1,16 @@
-body {
-  color: #8E35FB;
-  background-image: url("lightpic.webp");
-  background-repeat:no-repeat;
-  background-size: cover;
+body h1,h2,button {
+  margin: 0 40%;
+  padding: 1% 0;
+}
+
+h2 {
+  color: teal;
+}
+
+button {
+  margin: 0 43%;
+  width: 4%;
+  padding: 7px;
 }
 
 #game div {
@@ -10,35 +18,5 @@ body {
   width: 15%;
   height: 200px;
   margin: 10px;
-  border-radius: 3%;
   display: inline-block;
-}
-
-input[type="checkbox"]{
-  margin-left: 20px;
-}
-
-#game #innerDiv {
-  border: none;
-  position: relative;
-  left: 40%;
-  font-family: 'Satisfy', cursive;
-  color: #3C7BFA
-}
-
-input,label {
-  font-family: 'Roboto', sans-serif;
-}
-
-.display {
-  display: none;
-}
-
-#Restart {
-  position:absolute;
-  top: 70%;
-  left: 1%;
-  width: 5%;
-  border-radius: 10%;
-  background-color: red;
 }
