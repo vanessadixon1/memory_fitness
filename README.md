@@ -1,6 +1,6 @@
 # memory_fitness
 
-Memory Fitness is a simple JS Web Application, users have 30 seconds to match the same colors after 30 seconds the game will end and the results will be displayed in an alert.
+Memory Fitness is a simple JS game, users have 30 seconds to match the same colors after 30 seconds the game will end and the results will be displayed in an alert.
 
 ![Model](memorygame.png)
 ![Model](memory.png)
